@@ -1,0 +1,21 @@
+body {
+    background-color: red;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+ol {
+    text-align: center;
+    list-style-position: inside;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
